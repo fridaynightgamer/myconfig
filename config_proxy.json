@@ -1,0 +1,61 @@
+{
+    "access-log-file": null,
+    "access-password": null,
+    "algo-ext": true,
+    "api": {
+        "id": null,
+        "worker-id": null
+    },
+    "http": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 0,
+        "access-token": null,
+        "restricted": true
+    },
+    "background": false,
+    "bind": [
+        {
+            "host": "0.0.0.0",
+            "port": 443,
+            "tls": true
+        }
+    ],
+    "colors": true,
+    "custom-diff": 0,
+    "custom-diff-stats": false,
+    "donate-level": 0,
+    "log-file": null,
+    "mode": "nicehash",
+    "pools": [
+        {
+            "algo": "rx/0",
+            "coin": "monero",
+            "url": "xmr-us-east1.nanopool.org:14433",
+            "user": "454d34pawe9KBfxuLeKbHKjk78cJA1DwJ9EEGw9QW5FAamFTBDNoi26WEFeNakQ1enJcQqjZbKuo1dV2atcnKRu6KfTXYEp",
+            "pass": "supremestomper@gmail.com",
+            "rig-id": null,
+            "keepalive": true,
+            "enabled": true,
+            "tls": true,
+            "tls-fingerprint": null,
+            "daemon": false
+        }
+    ],
+    "retries": 2,
+    "retry-pause": 1,
+    "reuse-timeout": 0,
+    "tls": {
+        "protocols": null,
+        "cert": "fullchain.pem",
+        "cert_key": "privkey.pem",
+        "ciphers": null,
+        "ciphersuites": null,
+        "dhparam": null
+    },
+    "user-agent": null,
+    "syslog": false,
+    "verbose": false,
+    "watch": true,
+    "workers": true
+}
