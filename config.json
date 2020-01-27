@@ -56,14 +56,14 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "xmr-us-east1.nanopool.org:14444",
+            "url": "xmr-us-east1.nanopool.org:14433",
             "user": "454d34pawe9KBfxuLeKbHKjk78cJA1DwJ9EEGw9QW5FAamFTBDNoi26WEFeNakQ1enJcQqjZbKuo1dV2atcnKRu6KfTXYEp",
             "pass": "supremestomper@gmail.com",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "tls-fingerprint": null,
             "daemon": false,
             "self-select": null
