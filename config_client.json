@@ -60,7 +60,7 @@
             "user": "454d34pawe9KBfxuLeKbHKjk78cJA1DwJ9EEGw9QW5FAamFTBDNoi26WEFeNakQ1enJcQqjZbKuo1dV2atcnKRu6KfTXYEp",
             "pass": "supremestomper@gmail.com",
             "rig-id": null,
-            "nicehash": false,
+            "nicehash": true,
             "keepalive": false,
             "enabled": true,
             "tls": true,
