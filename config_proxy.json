@@ -31,7 +31,7 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "pool.supportxmr.com:3333",
+            "url": "xmr.f2pool.com:13531",
             "user": "454d34pawe9KBfxuLeKbHKjk78cJA1DwJ9EEGw9QW5FAamFTBDNoi26WEFeNakQ1enJcQqjZbKuo1dV2atcnKRu6KfTXYEp",
             "pass": "supremestomper@gmail.com",
             "rig-id": null,
